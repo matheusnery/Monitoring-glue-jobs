@@ -4,7 +4,7 @@ In a data mesh project
 
 
 
-<img src='./a.jpg' width=60%>
+<img src='./log-monitoring.png' width=60%>
 
 
 
