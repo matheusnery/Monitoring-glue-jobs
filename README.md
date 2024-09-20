@@ -4,7 +4,7 @@ In a data mesh project
 
 
 
-![alt text]([http://url/to/img.png](https://github.com/matheusnery/Monitoring-glue-jobs/blob/main/log-monitoring.png))
+![Diagram]([http://url/to/img.png](https://github.com/matheusnery/Monitoring-glue-jobs/blob/main/log-monitoring.png))
 
 
 
