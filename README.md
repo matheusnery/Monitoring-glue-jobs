@@ -4,7 +4,7 @@ In a data mesh project
 
 
 
-![Diagram]([http://url/to/img.png](https://github.com/matheusnery/Monitoring-glue-jobs/blob/main/log-monitoring.png))
+<img src='./a.jpg' width=60%>
 
 
 
