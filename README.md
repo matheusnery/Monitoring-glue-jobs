@@ -4,11 +4,10 @@ In a data mesh project
 
 
 
-<p float="left">
+![alt text]([http://url/to/img.png](https://github.com/matheusnery/Monitoring-glue-jobs/blob/main/log-monitoring.png))
 
- <img src="[https://user-images.githubusercontent.com/105131652/186226747-206a5cb6-0390-445f-9ab7-aaa88827750e.jpg](https://github.com/matheusnery/Monitoring-glue-jobs/blob/main/log-monitoring.png)" width="200" />
 
-</p>
+
 
 
 
